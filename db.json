@@ -1,0 +1,16 @@
+{
+"posts":[
+{
+"id":1,
+"name":"Hi",
+"type":"hello",
+"mass":"24"},{
+"id":2,
+"name":"bye",
+"type":"tata",
+"mass":"32"}
+],
+"profile":{
+"name":"typecode"
+}
+}
